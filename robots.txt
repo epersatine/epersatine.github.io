@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://epersatine.github.io/sitemap
+Sitemap: https://epersatine.github.io/app/sitemap
+Sitemap: https://epersatine.github.io/assets/sitemap
+Sitemap: https://epersatine.github.io/css/sitemap
+Sitemap: https://epersatine.github.io/includes/sitemap
+Sitemap: https://epersatine.github.io/item/sitemap
+Sitemap: https://epersatine.github.io/src/sitemap
